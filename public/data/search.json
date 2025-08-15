@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Güneş Enerjili Powerbank",
+    "price": 599,
+    "status": "Aktif"
+  },
+  { "id": 2, "name": "Akıllı Su Şişesi", "price": 349, "status": "Aktif" },
+  { "id": 3, "name": "Mekanik Klavye RGB", "price": 1250, "status": "Pasif" },
+  {
+    "id": 4,
+    "name": "Kablosuz Kulak İçi Kulaklık",
+    "price": 799,
+    "status": "Aktif"
+  },
+  { "id": 5, "name": "Drone Kamera", "price": 4999, "status": "Pasif" },
+  {
+    "id": 6,
+    "name": "Taşınabilir Projektör",
+    "price": 2890,
+    "status": "Aktif"
+  },
+  { "id": 7, "name": "Akıllı Bileklik", "price": 650, "status": "Aktif" },
+  { "id": 8, "name": "Retro Pikap", "price": 1790, "status": "Pasif" },
+  { "id": 9, "name": "Oyun Konsolu", "price": 8500, "status": "Aktif" },
+  { "id": 10, "name": "Elektrikli Scooter", "price": 11999, "status": "Pasif" }
+]

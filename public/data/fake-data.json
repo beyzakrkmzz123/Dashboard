@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Ürün 1", "price": 199, "status": "Aktif" },
+  { "id": 2, "name": "Ürün 2", "price": 299, "status": "Pasif" },
+  { "id": 3, "name": "Ürün 3", "price": 399, "status": "Aktif" },
+  { "id": 4, "name": "Ürün 4", "price": 499, "status": "Aktif" },
+  { "id": 5, "name": "Ürün 5", "price": 599, "status": "Pasif" }
+]

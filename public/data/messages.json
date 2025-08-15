@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "from": "Ali",
+    "subject": "Fatura hakkında",
+    "status": "Okunmadı"
+  },
+  { "id": 2, "from": "Ayşe", "subject": "Toplantı daveti", "status": "Okundu" },
+  {
+    "id": 3,
+    "from": "Mehmet",
+    "subject": "Rapor gönderimi",
+    "status": "Okunmadı"
+  },
+  { "id": 4, "from": "Fatma", "subject": "Yeni teklif", "status": "Okundu" },
+  { "id": 5, "from": "Can", "subject": "Destek talebi", "status": "Okunmadı" }
+]

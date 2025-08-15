@@ -1,0 +1,14 @@
+[
+  { "id": 1, "key": "Tema", "value": "Koyu" },
+  { "id": 2, "key": "Dil", "value": "Türkçe" },
+  { "id": 3, "key": "Bildirimler", "value": "Açık" },
+  { "id": 4, "key": "Otomatik Güncelleme", "value": "Kapalı" },
+  { "id": 5, "key": "Konum Servisi", "value": "Açık" },
+  { "id": 6, "key": "Ses", "value": "Kapalı" },
+  { "id": 7, "key": "Gizlilik Modu", "value": "Kapalı" },
+  { "id": 8, "key": "Yedekleme", "value": "Açık" },
+  { "id": 9, "key": "Veri Paylaşımı", "value": "Kapalı" },
+  { "id": 10, "key": "Tema Rengi", "value": "Mavi" },
+  { "id": 11, "key": "Otomatik Senkronizasyon", "value": "Açık" },
+  { "id": 12, "key": "Karanlık Mod", "value": "Kapalı" }
+]

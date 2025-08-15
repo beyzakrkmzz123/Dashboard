@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Laptop", "price": 8500, "status": "Aktif" },
+  { "id": 2, "name": "Akıllı Telefon", "price": 4500, "status": "Pasif" },
+  { "id": 3, "name": "Tablet", "price": 3200, "status": "Aktif" },
+  { "id": 4, "name": "Kulaklık", "price": 250, "status": "Aktif" },
+  { "id": 5, "name": "Monitör", "price": 1800, "status": "Pasif" },
+  { "id": 6, "name": "Mouse", "price": 150, "status": "Aktif" },
+  { "id": 7, "name": "Klavye", "price": 300, "status": "Aktif" },
+  { "id": 8, "name": "Webcam", "price": 400, "status": "Pasif" },
+  { "id": 9, "name": "Hoparlör", "price": 600, "status": "Aktif" },
+  { "id": 10, "name": "Şarj Cihazı", "price": 100, "status": "Pasif" }
+]
